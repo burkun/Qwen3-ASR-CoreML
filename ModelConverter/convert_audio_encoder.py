@@ -18,10 +18,8 @@ import numpy as np
 import torch
 import torch.nn as nn
 
-# Add parent directory to path for imports
-sys.path.insert(0, str(Path(__file__).parent.parent / "Qwen3-ASR-Code"))
-
-from transformers import AutoModel, AutoConfig
+# Import custom Qwen3-ASR model
+from qwen3_asr_models import Qwen3ASRForConditionalGeneration
 
 
 class AudioEncoderWrapper(nn.Module):
@@ -55,9 +53,8 @@ def load_model(model_path: str):
     print(f"Loading model from {model_path}...")
     
     # Load the full model
-    model = AutoModel.from_pretrained(
+    model = Qwen3ASRForConditionalGeneration.from_pretrained(
         model_path,
-        trust_remote_code=True,
         torch_dtype=torch.float32,
     )
     model.eval()
