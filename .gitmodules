@@ -1,0 +1,6 @@
+[submodule "Qwen3-ASR-Toolkit"]
+	path = Qwen3-ASR-Toolkit
+	url = https://github.com/QwenLM/Qwen3-ASR-Toolkit.git
+[submodule "swift-transformers"]
+	path = swift-transformers
+	url = https://github.com/huggingface/swift-transformers.git
