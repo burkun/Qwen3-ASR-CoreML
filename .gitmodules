@@ -4,3 +4,6 @@
 [submodule "reference/swift-transformers"]
 	path = reference/swift-transformers
 	url = https://github.com/huggingface/swift-transformers.git
+[submodule "reference/WhisperKit"]
+	path = reference/WhisperKit
+	url = https://github.com/argmaxinc/WhisperKit.git

@@ -1,0 +1,75 @@
+{
+  "": {
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/master.swiftdeps"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/AudioProcessor.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/MelSpectrogram.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/MRoPE.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/TextGenerator.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/AudioEncoder.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/Qwen3ASRModel.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/TextDecoder.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Qwen3ASRKit.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/ByteEncoder.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder.dia"
+  },
+  "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/Qwen2Tokenizer.swift": {
+    "dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer.d",
+    "object": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer.swift.o",
+    "swiftmodule": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer.swiftdeps",
+    "diagnostics": "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer.dia"
+  }
+}

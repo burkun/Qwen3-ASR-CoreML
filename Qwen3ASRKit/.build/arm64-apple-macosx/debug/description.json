@@ -1,0 +1,370 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Qwen3ASRKit-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/sources",
+      "importPath" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/AudioProcessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/MelSpectrogram.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/MRoPE.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/TextGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/AudioEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/Qwen3ASRModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/TextDecoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Qwen3ASRKit.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/ByteEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/Qwen2Tokenizer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Qwen3ASRKit",
+      "moduleOutputPath" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Modules/Qwen3ASRKit.swiftmodule",
+      "objects" : [
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder.swift.o",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/include/Qwen3ASRKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "qwen3asrkit"
+      ],
+      "outputFileMapPath" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioProcessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MelSpectrogram.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/MRoPE.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/AudioEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/TextDecoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen3ASRKit.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/ByteEncoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/Qwen2Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Modules/Qwen3ASRKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/AudioProcessor.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/MelSpectrogram.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/MRoPE.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/TextGenerator.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/AudioEncoder.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/Qwen3ASRModel.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/TextDecoder.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Qwen3ASRKit.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/ByteEncoder.swift",
+        "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/Qwen2Tokenizer.swift"
+      ],
+      "tempsPath" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Qwen3ASRKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Qwen3ASRKit",
+      "-package-name",
+      "qwen3asrkit",
+      "-c",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/AudioProcessor.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/MelSpectrogram.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/MRoPE.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/TextGenerator.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/AudioEncoder.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/Qwen3ASRModel.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/TextDecoder.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Qwen3ASRKit.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/ByteEncoder.swift",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/Qwen2Tokenizer.swift",
+      "-I",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/include/Qwen3ASRKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "qwen3asrkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Qwen3ASRKit" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/AudioProcessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/MelSpectrogram.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/MRoPE.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/TextGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/AudioEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/Qwen3ASRModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/TextDecoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Qwen3ASRKit.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/ByteEncoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/Qwen2Tokenizer.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/sources"
+    },
+    "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

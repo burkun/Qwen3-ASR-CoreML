@@ -1,0 +1,3 @@
+module Qwen3ASRKit {
+    header "/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/.build/arm64-apple-macosx/debug/Qwen3ASRKit.build/include/Qwen3ASRKit-Swift.h"
+}

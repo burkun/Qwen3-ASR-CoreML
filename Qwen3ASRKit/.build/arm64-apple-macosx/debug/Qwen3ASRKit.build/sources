@@ -1,0 +1,10 @@
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/AudioProcessor.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Audio/MelSpectrogram.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/MRoPE.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Generation/TextGenerator.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/AudioEncoder.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/Qwen3ASRModel.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Models/TextDecoder.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Qwen3ASRKit.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/ByteEncoder.swift
+/Users/booker/Work/Qwen3-ASR-CoreML/Qwen3ASRKit/Sources/Qwen3ASRKit/Tokenizer/Qwen2Tokenizer.swift
